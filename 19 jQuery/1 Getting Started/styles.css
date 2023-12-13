@@ -1,0 +1,15 @@
+.big-purple-title {
+    font-size: 3rem;
+    color: purple;
+    font-family: cursive;
+}
+
+.big-yellow-title {
+    font-size: 3rem;
+    color: yellow;
+    font-family: cursive;
+}
+
+.change-style {
+    color: darkgoldenrod;
+}
